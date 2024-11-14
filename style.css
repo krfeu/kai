@@ -1,0 +1,13 @@
+head{background-color: red;}
+	body{background-color: pink;}
+	h1{color:red;}
+	title{font-family:courier;}
+
+.cities {
+	background-color: black;
+	color: white;
+	margin: 20px;
+	padding: 5px;
+	font-family:Verdana, sans-serif;
+	text-align: center;
+}
